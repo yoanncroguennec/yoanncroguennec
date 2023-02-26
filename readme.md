@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/nishant666"><img src="https://api.daily.dev/devcards/2e44cbe8d05c4b0499f77edf9c4daf9b.png?r=rxs" width="400" alt="Nishant Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/nishant666"><img src="https://res.cloudinary.com/dky2vpnyr/image/upload/v1677453601/MyPortfolio/Card_CroguennecYoannGithub_bbfc2g.svg" width="400" alt="Croguennec Yoann Dev Card"/></a>
 
 
 [![Nishant's GitHub stats](https://github-readme-stats-j05el383g.vercel.app/api?username=nishant-666&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/nishant-666/nishant-666/blob/master/readme.md)
