@@ -1,3 +1,3 @@
 ### Bienvenue sur Mon Github
 
-<img src="https://res.cloudinary.com/dky2vpnyr/image/upload/v1677453601/MyPortfolio/Card_CroguennecYoannGithub_bbfc2g.svg" width="400" alt="Croguennec Yoann Dev Card"/>
+<img src="https://res.cloudinary.com/dky2vpnyr/image/upload/v1677453601/MyPortfolio/Card_CroguennecYoannGithub_bbfc2g.svg" width="500" alt="Croguennec Yoann Dev Card"/>
