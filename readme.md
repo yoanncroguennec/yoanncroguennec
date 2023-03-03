@@ -11,3 +11,12 @@ My name is Yoann Croguennec, I am 37 years old, having obtained a diploma as a w
  ---
  
 <p align="center"><img src="https://res.cloudinary.com/dky2vpnyr/image/upload/v1677455914/MyPortfolio/Card_CroguennecYoannGithub_bl1zko.svg" width="500" alt="Croguennec Yoann Dev Card"/></p>
+
+
+
+A rajouter le parcours professionnelle et formation
+
+<p>Other ongoing training</p><br />
+<p>English training, to obtain the B2 certificate</p>
+<p>Typing training, to obtain the Certication</p>
+<p>Blender" software training (3D)</p>
