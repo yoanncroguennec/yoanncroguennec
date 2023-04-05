@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoann CROGUENNEC</h1>
 <h3 align="center">Developer fullstack junior</h3>
 <h3 align="center">React JS & Native</h3>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+Welcome+To+My+Little+World!)
 <details>
  <summary><h3>👨‍💻 Hello everyone. I would like to introduce myself, (Click here)</h3></summary>
    
