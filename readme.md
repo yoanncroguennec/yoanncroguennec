@@ -9,21 +9,13 @@
   
 <details><summary><h3>👨‍💻 Hello everyone. I would like to introduce myself, (Click here)</h3></summary>
    
-My name is Yoann Croguennec, I am 37 years old, having obtained a diploma as a web and mobile web developer, level V, in the training centre "Callac Soft College". Afterwards, I continued to train myself in React JS and Native for 1 1/2 years, with websites (Udemy, ...) and Youtubers (SDZ, PrimFX, Waked XY, Les teachers du net, ...), which helped me develop my skills as a web developer. Then I went to the training centre "Le Réacteur" (75010), in order to reinforce my knowledge but also to understand some parts that I had difficulty to assimilate.
+My name is Yoann Croguennec, I'm 37 years old, and I've got a level V diploma as a web and mobile web developer from the "Callac Soft Collège" training centre. After that, I continued self-training in React JS and Native for 1 1/2 years, with websites (Udemy, etc.) and Youtubers (SDZ, PrimFX, Waked XY, Les teachers du net, etc.), which helped me develop my skills as a web developer. Then I went to the "Le Réacteur" training centre (75010), to reinforce my knowledge but also to understand certain parts that I was having trouble assimilating. After that, I continued to self-train in Next JS, while working on various types of project, as mentioned in my CV...
 </details> 
 
  ---
  
 <p align="center"><img src="https://res.cloudinary.com/dky2vpnyr/image/upload/v1677455914/MyPortfolio/Card_CroguennecYoannGithub_bl1zko.svg" width="500" alt="Croguennec Yoann Dev Card"/></p>
 
-
-
-A rajouter le parcours professionnelle et formation
-
-<p>Other ongoing training</p><br />
-<p>English training, to obtain the B2 certificate</p>
-<p>Typing training, to obtain the Certication</p>
-<p>Blender" software training (3D)</p>
 
 <hr>
   
