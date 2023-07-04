@@ -4,7 +4,7 @@
 <hr />
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" ><h3 align="center">Developer fullstack junior</h3>
-<h3 align="center">React JS & Native</h3>
+<h3 align="center">Next JS / React JS & Native</h3>
 
   
 <details><summary><h3>👨‍💻 Hello everyone. I would like to introduce myself, (Click here)</h3></summary>
