@@ -12,8 +12,6 @@ My name is Yoann Croguennec, I'm 37 years old, and I've got a level V diploma as
 
 ![Croguennec Yoann Dev Card](https://res.cloudinary.com/dky2vpnyr/image/upload/v1677455914/MyPortfolio/Card_CroguennecYoannGithub_bl1zko.svg)
 
-| 
-#### Les deux projets que je mettrai en avant, si je devais choisir : 
 
 |   | Listes des Projets réalisés : | **Stacks & Dépendances** | localstorage | API | Vercel | Lien Vercel | Github | Lien Github |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
