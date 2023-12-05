@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
-### Developer fullstack junior
+### Developer fullstack junior 
 
 ### Next JS / React JS & Native
 
