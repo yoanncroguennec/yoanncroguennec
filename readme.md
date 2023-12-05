@@ -15,13 +15,6 @@ My name is Yoann Croguennec, I'm 37 years old, and I've got a level V diploma as
 | 
 #### Les deux projets que je mettrai en avant, si je devais choisir : 
 
- |
-| --- |
-|   | Listes des Projets réalisés : | **Stacks & Dépendances** | localstorage | API | Vercel | Lien Vercel | Github | Lien Github |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **En React JS** |   |   |   |   |   |   |   |   |
-| **En React Native** |   |   |   |   |   |   |   |   |
-
 |   | Listes des Projets réalisés : | **Stacks & Dépendances** | localstorage | API | Vercel | Lien Vercel | Github | Lien Github |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **NEXT JS** | Clone Netflix | Next Auth (Connexion Google) / MUI / Axios / MongoDB pour signup Users |   | **OUI** **Externe** “[themoviedb.org](themoviedb.org)” | **OUI** | [https://project7-mern-clone-netflix.vercel.app/](https://project7-mern-clone-netflix.vercel.app/) | **OUI** | [https://github.com/yoanncroguennec/Project7_MERN_CloneNetflix](https://github.com/yoanncroguennec/Project7_MERN_CloneNetflix) |
