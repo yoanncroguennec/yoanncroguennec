@@ -6,7 +6,7 @@
 
 ### Next JS / React JS & Native
 
-### 👨‍💻 Hello everyone. I would like to introduce myself, (Click here)
+### 👨‍💻 Hello everyone. I would like to introduce myself
 
 My name is Yoann Croguennec, I'm 37 years old, and I've got a level V diploma as a web and mobile web developer from the "Callac Soft Collège" training centre. After that, I continued self-training in React JS and Native for 1 1/2 years, with websites (Udemy, etc.) and Youtubers (SDZ, PrimFX, Waked XY, Les teachers du net, etc.), which helped me develop my skills as a web developer. Then I went to the "Le Réacteur" training centre (75010), to reinforce my knowledge but also to understand certain parts that I was having trouble assimilating. After that, I continued to self-train in Next JS, while working on various types of project, as mentioned in my CV...
 
@@ -41,7 +41,3 @@ My name is Yoann Croguennec, I'm 37 years old, and I've got a level V diploma as
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-\`\`\`plaintext  
-  
-  
-\<br/> // todo: move this stuff out to a separate script like vscode custom editor example /media directory\<br/> const vscode = acquireVsCodeApi();\</p> \<pre>\<code> ClassicEditor .create( document.querySelector( &#39;#editor&#39; ) ) .then( editor =&gt; { editor.model.document.on( &#39;change:data&#39;, (ei, b) =&gt; { console.log( &#39;webview data change&#39; ); console.log(ei); console.log(b); if(b.type !== &quot;transparent&quot;){ vscode.postMessage({ type: &#39;data.change&#39;, data: editor.getData() }); text = editor.getData(); vscode.setState({ text }); } } ); // Handle messages sent from the extension to the webview window.addEventListener(&#39;message&#39;, event =&gt; { const message = event.data; // The data that the extension sent switch (message.type) { case &#39;update&#39;: console.log(&quot;webview received update notification&quot;) const text = message.text; // Update our webview&#39;s content updateContent(text); vscode.setState({ text }); return; } }); /\*\* \* Render the document in the webview. \*/ function updateContent(/\*\* @type {string} \*/ text) { console.log(&#39;webview received content update&#39;); console.log(text) editor.setData(text); } // Webviews are normally torn down when not visible and re-created when they become visible again. // State lets us save information across these re-loads const state = vscode.getState(); if (state) { updateContent(state.text); console.log(state.text); } } ) .catch( error =&gt; { console.error( error ); } ); &lt;/script&gt;\</code>\</pre>
